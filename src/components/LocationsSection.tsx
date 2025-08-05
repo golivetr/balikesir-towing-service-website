@@ -9,24 +9,24 @@ const locations = [
     isMain: true
   },
   {
-    name: "Altıeylül",
-    description: "Altıeylül oto çekici ve yol yardım hizmeti"
+    name: "Edremit",
+    description: "Edremit oto çekici ve yol yardım hizmeti"
   },
   {
-    name: "Karesi",
-    description: "Karesi oto çekici ve yol yardım hizmeti"
+    name: "Altınoluk",
+    description: "Altınoluk oto çekici ve yol yardım hizmeti"
   },
   {
     name: "Edremit",
     description: "Edremit oto çekici ve yol yardım hizmeti"
   },
   {
-    name: "Bandırma",
-    description: "Bandırma oto çekici ve yol yardım hizmeti"
+    name: "Küçükkuyu",
+    description: "Küçükkuyu oto çekici ve yol yardım hizmeti"
   },
   {
-    name: "Gönen",
-    description: "Gönen oto çekici ve yol yardım hizmeti"
+    name: "Akçay",
+    description: "Akçay oto çekici ve yol yardım hizmeti"
   }
 ];
 
@@ -96,7 +96,7 @@ export default function LocationsSection() {
             <div className="prose prose-lg mx-auto text-gray-600">
               <p className="mb-4">
                 Balıkesir'in her noktasında 7/24 oto çekici ve yol yardım hizmeti sunuyoruz. 
-                Altıeylül, Karesi, Edremit, Bandırma ve Gönen başta olmak üzere Balıkesir'in tüm ilçelerinde 
+                Altınoluk, Akçay, Küçükkuyu, Kadıköy, Erdemit, Burhaniye, Ayvalık ve Havran başta olmak üzere Balıkesir'in tüm ilçelerinde 
                 hızlı ve güvenilir çekici hizmeti veriyoruz.
               </p>
               <p className="mb-4">
